@@ -86,3 +86,7 @@ h2{color: #d92027}
   line-height: 2;
 }
 .skill-row-txt{margin-left: 5px;}
+.bottom-cointainer  a{
+  padding: 14px 16px;
+    text-decoration: none;
+}
